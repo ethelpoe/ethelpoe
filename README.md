@@ -19,3 +19,5 @@ Hi there! I'm Francisco Macias, a Mechatronic Engineer with a passion for DIY pr
 Do you like to focus, plan, work with your hands and enjoy the empowering feeling of creating something on your own? take a tour of my blog.
 
 :globe_with_meridians: https://ethelpoe.github.io/
+:movie_camera: https://www.youtube.com/@ethelpoe3374
+:postbox: eth3lpoe@gmail.com
