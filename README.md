@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there! I'm Francisco Macias, a Mechatronic Engineer with a passion for DIY projects. I'm currently working on a plastic extruder project and am always looking for new opportunities to learn and grow. I'm excited to be part of the GitHub community and look forward to connecting with other developers and learning more about the latest technologies. I'm also interested in exploring new ideas and collaborating on projects. Thanks for stopping by!
+
+Do you like to focus, plan, work with your hands and enjoy the empowering feeling of creating something on your own? take a tour of my blog.
+
+:globe_with_meridians: 
